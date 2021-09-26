@@ -1,0 +1,10 @@
+.starStyle{
+    background-color: rgb(222, 229, 235);
+    padding: 10px;
+    margin: 2px;
+    border: 5px solid gray;
+}
+.btnClass{
+    background-color: rgb(122, 221, 201);
+   
+}

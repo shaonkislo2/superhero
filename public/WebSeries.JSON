@@ -1,0 +1,74 @@
+[
+    {
+      "name": "ANdy Samberg",
+      "img": "https://m.media-amazon.com/images/M/MV5BNDg3NDk3ODI0Ml5BMl5BanBnXkFtZTgwOTE3MTE4NTM@._V1_UY317_CR7,0,214,317_AL_.jpg",
+      "role": "actor",
+      "age": 42,
+      "country": "USA",
+      "salary": 10000
+    },
+    {
+      "name": "Stephanie Beatriz",
+      "img": "https://m.media-amazon.com/images/M/MV5BYWY3ZGQ0OGUtZDNjYi00MmRkLWE4YmMtYzk3MzAwZjQxMDRlXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_UY317_CR123,0,214,317_AL_.jpg",
+      "role": "actress",
+      "age": 39,
+      "country": "Argentina",
+      "salary": 90000
+    },
+    {
+      "name": "Terry Crews ",
+      "img": "https://m.media-amazon.com/images/M/MV5BMjE1ODY0NzE4N15BMl5BanBnXkFtZTcwMTY5Mzk0Mw@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+      "role": "actor",
+      "age": 52,
+      "country": "USA",
+      "salary": 12000
+    },
+    {
+      "name": "Melissa Fumero",
+      "img": "https://m.media-amazon.com/images/M/MV5BMTY1OTk1NzQwOF5BMl5BanBnXkFtZTgwNDUzNTA3NjE@._V1_UY317_CR12,0,214,317_AL_.jpg",
+      "role": "actress",
+      "age": 38,
+      "country": "USA",
+      "salary": 8000
+    },
+    {
+      "name": "Joe Lo Truglio",
+      "img": "https://m.media-amazon.com/images/M/MV5BOTAyMTI4ODQ3Ml5BMl5BanBnXkFtZTcwOTk0MjE1OQ@@._V1_UY317_CR19,0,214,317_AL_.jpg",
+      "role": "actor",
+      "age": 50,
+      "country": "USA",
+      "salary": 10000
+    },
+    {
+      "name": "Andre Braugher",
+      "img": "https://m.media-amazon.com/images/M/MV5BMTIyNTIwOTY5N15BMl5BanBnXkFtZTcwMTE2NzU3MQ@@._V1_UY317_CR3,0,214,317_AL_.jpg",
+      "role": "actor",
+      "age": 58,
+      "country": "USA",
+      "salary": 14000
+    },
+    {
+      "name": "Dirk Blocker",
+      "img": "https://m.media-amazon.com/images/M/MV5BZWFkZjU5ODgtZjVjMi00YmUyLWIwZTQtOWQyZmY5MTllYzA5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UY317_CR12,0,214,317_AL_.jpg",
+      "role": "actor",
+      "age": 63,
+      "country": "USA",
+      "salary": 90000
+    },
+    {
+      "name": "Joel McKinnon Miller",
+      "img": "https://m.media-amazon.com/images/M/MV5BNjRhN2JkNTMtMzgwOS00ZjdmLWI4ZGItYmE2NzczMzY4OGYxXkEyXkFqcGdeQXVyMjA2MTk4MzE@._V1_UY317_CR72,0,214,317_AL_.jpg",
+      "role": "actor",
+      "age": 55,
+      "country": "USA",
+      "salary": 11000
+    },
+    {
+      "name": "Chelsea Peretti",
+      "img": "https://m.media-amazon.com/images/M/MV5BMTA2ODc5NzAzNDFeQTJeQWpwZ15BbWU4MDgxNDY0ODYx._V1_UY317_CR13,0,214,317_AL_.jpg",
+      "role": "actress",
+      "age": 42,
+      "country": "USA",
+      "salary": 13000
+    }
+  ]
